@@ -1,76 +1,366 @@
 {
- "updated": "2026-10-12T08:00:00.000Z",
- "page": {
-  "name": "โรงเรียนบ้านไร่",
-  "pageUrl": ""
- },
- "posts": [
-  {
-   "id": "s1",
-   "created": "2026-10-11T03:00:00.000Z",
-   "message": "ประกาศ: วันหยุดเนื่องในวันปิยมหาราช\nโรงเรียนขอแจ้งผู้ปกครองว่าวันที่ 23 ตุลาคม เป็นวันหยุดราชการ นักเรียนกลับมาเรียนตามปกติวันที่ 24 ตุลาคม",
-   "images": [
-    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM5RUQ4RjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNFOEY2RkQiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjY2MCIgY3k9IjEwMCIgcj0iNDYiIGZpbGw9IiNGRkYzQjgiLz48ZWxsaXBzZSBjeD0iMTcwIiBjeT0iOTAiIHJ4PSI3MCIgcnk9IjIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDUiIHJ4PSI1MCIgcnk9IjE4IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxwYXRoIGQ9Ik0wIDMzMCBMMTUwIDIxMCBMMzAwIDMyMCBMNDUwIDE5MCBMNjIwIDMyMCBMODAwIDIzMCBWNTAwIEgwWiIgZmlsbD0iI0I5RTNGNyIvPjxwYXRoIGQ9Ik0wIDM5MCBDMjAwIDMzMCA0MDAgNDIwIDgwMCAzNTAgVjUwMCBIMFoiIGZpbGw9IiNCREVCREQiLz48cmVjdCB4PSI5MCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNTAiIGZpbGw9IiNDOUEyN0UiLz48Y2lyY2xlIGN4PSI5NSIgY3k9IjMyNSIgcj0iMzQiIGZpbGw9IiM4RkRDQjgiLz48cmVjdCB4PSI2OTAiIHk9IjM0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzlBMjdFIi8+PGNpcmNsZSBjeD0iNjk1IiBjeT0iMzI1IiByPSIzNCIgZmlsbD0iIzhGRENCOCIvPjxyZWN0IHg9IjIxMCIgeT0iMjcwIiB3aWR0aD0iMzgwIiBoZWlnaHQ9IjE0MCIgcng9IjEyIiBmaWxsPSIjRkZEM0UwIi8+PHBhdGggZD0iTTE5MCAyNzUgTDQwMCAxOTAgTDYxMCAyNzVaIiBmaWxsPSIjRkY5REI4Ii8+PHJlY3QgeD0iMzc1IiB5PSIzMzAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI4MCIgcng9IjgiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIyNTAiIHk9IjMwMCIgd2lkdGg9IjQyIiBoZWlnaHQ9IjQyIiByeD0iOCIgZmlsbD0iI0NGRUJGQiIvPjxyZWN0IHg9IjMyMCIgeT0iMzAwIiB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHJ4PSI4IiBmaWxsPSIjQ0ZFQkZCIi8+PHJlY3QgeD0iNDM4IiB5PSIzMDAiIHdpZHRoPSI0MiIgaGVpZ2h0PSI0MiIgcng9IjgiIGZpbGw9IiNDRkVCRkIiLz48cmVjdCB4PSI1MDgiIHk9IjMwMCIgd2lkdGg9IjQyIiBoZWlnaHQ9IjQyIiByeD0iOCIgZmlsbD0iI0NGRUJGQiIvPjxyZWN0IHg9IjM5NiIgeT0iMTUwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MCIgZmlsbD0iIzlCN0I1RSIvPjxwYXRoIGQ9Ik00MDAgMTUwIGg0NiBsLTEyIDE0IDEyIDE0IGgtNDZ6IiBmaWxsPSIjNkVDNkY1Ii8+PC9zdmc+"
-   ],
-   "reactions": 24,
-   "comments": 3,
-   "url": ""
+  "updated": "2026-10-12T17:36:19.908Z",
+  "page": {
+    "name": "โรงเรียนบ้านไร่ อำเภอดอยเต่า จังหวัดเชียงใหม่",
+    "pageUrl": "https://www.facebook.com/103144785089449"
   },
-  {
-   "id": "s2",
-   "created": "2026-10-09T05:00:00.000Z",
-   "message": "กิจกรรมวันวิทยาศาสตร์น้อย\nนักเรียนชั้น ป.4–ป.6 ร่วมทดลองภูเขาไฟจำลองและจรวดขวดน้ำ สนุกและได้ความรู้กันถ้วนหน้า",
-   "images": [
-    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNDOUI4RkYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGMkVDRkYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjY2MCIgY3k9IjEwMCIgcj0iNDYiIGZpbGw9IiNGRkYzQjgiLz48ZWxsaXBzZSBjeD0iMTcwIiBjeT0iOTAiIHJ4PSI3MCIgcnk9IjIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDUiIHJ4PSI1MCIgcnk9IjE4IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxwYXRoIGQ9Ik0wIDMzMCBMMTUwIDIxMCBMMzAwIDMyMCBMNDUwIDE5MCBMNjIwIDMyMCBMODAwIDIzMCBWNTAwIEgwWiIgZmlsbD0iI0I5RTNGNyIvPjxwYXRoIGQ9Ik0wIDM5MCBDMjAwIDMzMCA0MDAgNDIwIDgwMCAzNTAgVjUwMCBIMFoiIGZpbGw9IiNCREVCREQiLz48cmVjdCB4PSI4MCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNTAiIGZpbGw9IiNDOUEyN0UiLz48Y2lyY2xlIGN4PSI4NSIgY3k9IjMyNSIgcj0iMzQiIGZpbGw9IiM4RkRDQjgiLz48cGF0aCBkPSJNMzAwIDQyMCBMMzYwIDMwMCBINDQwIEw1MDAgNDIwWiIgZmlsbD0iI0M5QTI3RSIvPjxjaXJjbGUgY3g9IjQwMCIgY3k9IjI5MCIgcj0iMTYiIGZpbGw9IiNGRjhBN0EiLz48Y2lyY2xlIGN4PSIzODAiIGN5PSIyNjAiIHI9IjEyIiBmaWxsPSIjRkZCMTk5Ii8+PGNpcmNsZSBjeD0iNDI1IiBjeT0iMjQ1IiByPSI5IiBmaWxsPSIjRkZEM0MyIi8+PHBhdGggZD0iTTU5MCA0MjAgVjM0MCBMNTYwIDI5MCBINjQwIEw2MTAgMzQwIFY0MjBaIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOSIvPjxwYXRoIGQ9Ik01NzAgNDAwIEg2MzAgVjQyMCBINTcwWiIgZmlsbD0iIzVGRDRDNCIvPjwvc3ZnPg==",
-    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM5RUQ4RjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNFOEY2RkQiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjY2MCIgY3k9IjEwMCIgcj0iNDYiIGZpbGw9IiNGRkYzQjgiLz48ZWxsaXBzZSBjeD0iMTcwIiBjeT0iOTAiIHJ4PSI3MCIgcnk9IjIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDUiIHJ4PSI1MCIgcnk9IjE4IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxwYXRoIGQ9Ik0wIDMzMCBMMTUwIDIxMCBMMzAwIDMyMCBMNDUwIDE5MCBMNjIwIDMyMCBMODAwIDIzMCBWNTAwIEgwWiIgZmlsbD0iI0I5RTNGNyIvPjxwYXRoIGQ9Ik0wIDM5MCBDMjAwIDMzMCA0MDAgNDIwIDgwMCAzNTAgVjUwMCBIMFoiIGZpbGw9IiNCREVCREQiLz48cmVjdCB4PSI5MCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNTAiIGZpbGw9IiNDOUEyN0UiLz48Y2lyY2xlIGN4PSI5NSIgY3k9IjMyNSIgcj0iMzQiIGZpbGw9IiM4RkRDQjgiLz48cmVjdCB4PSI2OTAiIHk9IjM0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzlBMjdFIi8+PGNpcmNsZSBjeD0iNjk1IiBjeT0iMzI1IiByPSIzNCIgZmlsbD0iIzhGRENCOCIvPjxyZWN0IHg9IjIxMCIgeT0iMjcwIiB3aWR0aD0iMzgwIiBoZWlnaHQ9IjE0MCIgcng9IjEyIiBmaWxsPSIjRkZEM0UwIi8+PHBhdGggZD0iTTE5MCAyNzUgTDQwMCAxOTAgTDYxMCAyNzVaIiBmaWxsPSIjRkY5REI4Ii8+PHJlY3QgeD0iMzc1IiB5PSIzMzAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI4MCIgcng9IjgiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIyNTAiIHk9IjMwMCIgd2lkdGg9IjQyIiBoZWlnaHQ9IjQyIiByeD0iOCIgZmlsbD0iI0NGRUJGQiIvPjxyZWN0IHg9IjMyMCIgeT0iMzAwIiB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHJ4PSI4IiBmaWxsPSIjQ0ZFQkZCIi8+PHJlY3QgeD0iNDM4IiB5PSIzMDAiIHdpZHRoPSI0MiIgaGVpZ2h0PSI0MiIgcng9IjgiIGZpbGw9IiNDRkVCRkIiLz48cmVjdCB4PSI1MDgiIHk9IjMwMCIgd2lkdGg9IjQyIiBoZWlnaHQ9IjQyIiByeD0iOCIgZmlsbD0iI0NGRUJGQiIvPjxyZWN0IHg9IjM5NiIgeT0iMTUwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MCIgZmlsbD0iIzlCN0I1RSIvPjxwYXRoIGQ9Ik00MDAgMTUwIGg0NiBsLTEyIDE0IDEyIDE0IGgtNDZ6IiBmaWxsPSIjNkVDNkY1Ii8+PC9zdmc+"
-   ],
-   "reactions": 58,
-   "comments": 9,
-   "url": ""
-  },
-  {
-   "id": "s3",
-   "created": "2026-10-05T02:30:00.000Z",
-   "message": "ข่าวสาร: นักเรียนโรงเรียนบ้านไร่ได้รับรางวัลการแข่งขันทักษะภาษาไทย ระดับกลุ่มโรงเรียน\nขอแสดงความยินดีกับน้องๆ และคุณครูผู้ฝึกซ้อมทุกท่าน",
-   "images": [
-    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNGRkU0OUEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGRkY3REIiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjY2MCIgY3k9IjEwMCIgcj0iNDYiIGZpbGw9IiNGRkYzQjgiLz48ZWxsaXBzZSBjeD0iMTcwIiBjeT0iOTAiIHJ4PSI3MCIgcnk9IjIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDUiIHJ4PSI1MCIgcnk9IjE4IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxwYXRoIGQ9Ik0wIDMzMCBMMTUwIDIxMCBMMzAwIDMyMCBMNDUwIDE5MCBMNjIwIDMyMCBMODAwIDIzMCBWNTAwIEgwWiIgZmlsbD0iI0I5RTNGNyIvPjxwYXRoIGQ9Ik0wIDM5MCBDMjAwIDMzMCA0MDAgNDIwIDgwMCAzNTAgVjUwMCBIMFoiIGZpbGw9IiNCREVCREQiLz48cmVjdCB4PSIxMDAiIHk9IjM0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzlBMjdFIi8+PGNpcmNsZSBjeD0iMTA1IiBjeT0iMzI1IiByPSIzNCIgZmlsbD0iIzhGRENCOCIvPjxyZWN0IHg9IjY4MCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNTAiIGZpbGw9IiNDOUEyN0UiLz48Y2lyY2xlIGN4PSI2ODUiIGN5PSIzMjUiIHI9IjM0IiBmaWxsPSIjOEZEQ0I4Ii8+PHBhdGggZD0iTTM0MCAyMDAgSDQ2MCBWMjYwIGE2MCA2MCAwIDAgMSAtMTIwIDBaIiBmaWxsPSIjRkZDOTREIi8+PHJlY3QgeD0iMzkwIiB5PSIzMTAiIHdpZHRoPSIyMCIgaGVpZ2h0PSI0MCIgZmlsbD0iI0ZGQzk0RCIvPjxyZWN0IHg9IjM1MCIgeT0iMzUwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjI2IiByeD0iOCIgZmlsbD0iI0ZGQUQzMyIvPjxwYXRoIGQ9Ik0zNDAgMjE1IGgtMzUgYTM1IDM1IDAgMCAwIDM1IDUwTTQ2MCAyMTUgaDM1IGEzNSAzNSAwIDAgMSAtMzUgNTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQzk0RCIgc3Ryb2tlLXdpZHRoPSIxMiIvPjxwYXRoIGQ9Ik00MDAgMjI1IGwxMiAyNCAyNiA0IC0xOSAxOCA1IDI2IC0yNCAtMTMgLTI0IDEzIDUgLTI2IC0xOSAtMTggMjYgLTR6IiBmaWxsPSIjZmZmIi8+PC9zdmc+"
-   ],
-   "reactions": 91,
-   "comments": 14,
-   "url": ""
-  },
-  {
-   "id": "s4",
-   "created": "2026-10-01T04:00:00.000Z",
-   "message": "กิจกรรมปลูกผักปลอดสารพิษ\nนักเรียนช่วยกันดูแลแปลงผักของโรงเรียน เพื่อนำไปใช้ในโครงการอาหารกลางวัน",
-   "images": [
-    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNCNkVCRDYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNFQUZCRjMiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjY2MCIgY3k9IjEwMCIgcj0iNDYiIGZpbGw9IiNGRkYzQjgiLz48ZWxsaXBzZSBjeD0iMTcwIiBjeT0iOTAiIHJ4PSI3MCIgcnk9IjIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDUiIHJ4PSI1MCIgcnk9IjE4IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxwYXRoIGQ9Ik0wIDMzMCBMMTUwIDIxMCBMMzAwIDMyMCBMNDUwIDE5MCBMNjIwIDMyMCBMODAwIDIzMCBWNTAwIEgwWiIgZmlsbD0iI0I5RTNGNyIvPjxwYXRoIGQ9Ik0wIDM5MCBDMjAwIDMzMCA0MDAgNDIwIDgwMCAzNTAgVjUwMCBIMFoiIGZpbGw9IiNCREVCREQiLz48cmVjdCB4PSI5MCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNTAiIGZpbGw9IiNDOUEyN0UiLz48Y2lyY2xlIGN4PSI5NSIgY3k9IjMyNSIgcj0iMzQiIGZpbGw9IiM4RkRDQjgiLz48cGF0aCBkPSJNMCA0MjAgSDgwMCIgc3Ryb2tlPSIjQjg4RjZBIiBzdHJva2Utd2lkdGg9IjI2IiBvcGFjaXR5PSIuNTUiLz48cGF0aCBkPSJNODAgNDIwIGwtMTQgLTM0IE04MCA0MjAgbDAgLTQyIE04MCA0MjAgbDE0IC0zNCIgc3Ryb2tlPSIjNUNDNDhFIiBzdHJva2Utd2lkdGg9IjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjgwIiBjeT0iNDI0IiByPSI5IiBmaWxsPSIjRkY5RjdBIi8+PHBhdGggZD0iTTE3MCA0MjAgbC0xNCAtMzQgTTE3MCA0MjAgbDAgLTQyIE0xNzAgNDIwIGwxNCAtMzQiIHN0cm9rZT0iIzVDQzQ4RSIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48Y2lyY2xlIGN4PSIxNzAiIGN5PSI0MjQiIHI9IjkiIGZpbGw9IiNGRjlGN0EiLz48cGF0aCBkPSJNMjYwIDQyMCBsLTE0IC0zNCBNMjYwIDQyMCBsMCAtNDIgTTI2MCA0MjAgbDE0IC0zNCIgc3Ryb2tlPSIjNUNDNDhFIiBzdHJva2Utd2lkdGg9IjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjI2MCIgY3k9IjQyNCIgcj0iOSIgZmlsbD0iI0ZGOUY3QSIvPjxwYXRoIGQ9Ik0zNTAgNDIwIGwtMTQgLTM0IE0zNTAgNDIwIGwwIC00MiBNMzUwIDQyMCBsMTQgLTM0IiBzdHJva2U9IiM1Q0M0OEUiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iMzUwIiBjeT0iNDI0IiByPSI5IiBmaWxsPSIjRkY5RjdBIi8+PHBhdGggZD0iTTQ0MCA0MjAgbC0xNCAtMzQgTTQ0MCA0MjAgbDAgLTQyIE00NDAgNDIwIGwxNCAtMzQiIHN0cm9rZT0iIzVDQzQ4RSIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48Y2lyY2xlIGN4PSI0NDAiIGN5PSI0MjQiIHI9IjkiIGZpbGw9IiNGRjlGN0EiLz48cGF0aCBkPSJNNTMwIDQyMCBsLTE0IC0zNCBNNTMwIDQyMCBsMCAtNDIgTTUzMCA0MjAgbDE0IC0zNCIgc3Ryb2tlPSIjNUNDNDhFIiBzdHJva2Utd2lkdGg9IjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjUzMCIgY3k9IjQyNCIgcj0iOSIgZmlsbD0iI0ZGOUY3QSIvPjxwYXRoIGQ9Ik02MjAgNDIwIGwtMTQgLTM0IE02MjAgNDIwIGwwIC00MiBNNjIwIDQyMCBsMTQgLTM0IiBzdHJva2U9IiM1Q0M0OEUiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iNjIwIiBjeT0iNDI0IiByPSI5IiBmaWxsPSIjRkY5RjdBIi8+PHBhdGggZD0iTTcxMCA0MjAgbC0xNCAtMzQgTTcxMCA0MjAgbDAgLTQyIE03MTAgNDIwIGwxNCAtMzQiIHN0cm9rZT0iIzVDQzQ4RSIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48Y2lyY2xlIGN4PSI3MTAiIGN5PSI0MjQiIHI9IjkiIGZpbGw9IiNGRjlGN0EiLz48cGF0aCBkPSJNMCA0NjUgSDgwMCIgc3Ryb2tlPSIjQjg4RjZBIiBzdHJva2Utd2lkdGg9IjI2IiBvcGFjaXR5PSIuNTUiLz48cGF0aCBkPSJNODAgNDY1IGwtMTQgLTM0IE04MCA0NjUgbDAgLTQyIE04MCA0NjUgbDE0IC0zNCIgc3Ryb2tlPSIjNUNDNDhFIiBzdHJva2Utd2lkdGg9IjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjgwIiBjeT0iNDY5IiByPSI5IiBmaWxsPSIjRkY5RjdBIi8+PHBhdGggZD0iTTE3MCA0NjUgbC0xNCAtMzQgTTE3MCA0NjUgbDAgLTQyIE0xNzAgNDY1IGwxNCAtMzQiIHN0cm9rZT0iIzVDQzQ4RSIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48Y2lyY2xlIGN4PSIxNzAiIGN5PSI0NjkiIHI9IjkiIGZpbGw9IiNGRjlGN0EiLz48cGF0aCBkPSJNMjYwIDQ2NSBsLTE0IC0zNCBNMjYwIDQ2NSBsMCAtNDIgTTI2MCA0NjUgbDE0IC0zNCIgc3Ryb2tlPSIjNUNDNDhFIiBzdHJva2Utd2lkdGg9IjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjI2MCIgY3k9IjQ2OSIgcj0iOSIgZmlsbD0iI0ZGOUY3QSIvPjxwYXRoIGQ9Ik0zNTAgNDY1IGwtMTQgLTM0IE0zNTAgNDY1IGwwIC00MiBNMzUwIDQ2NSBsMTQgLTM0IiBzdHJva2U9IiM1Q0M0OEUiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iMzUwIiBjeT0iNDY5IiByPSI5IiBmaWxsPSIjRkY5RjdBIi8+PHBhdGggZD0iTTQ0MCA0NjUgbC0xNCAtMzQgTTQ0MCA0NjUgbDAgLTQyIE00NDAgNDY1IGwxNCAtMzQiIHN0cm9rZT0iIzVDQzQ4RSIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48Y2lyY2xlIGN4PSI0NDAiIGN5PSI0NjkiIHI9IjkiIGZpbGw9IiNGRjlGN0EiLz48cGF0aCBkPSJNNTMwIDQ2NSBsLTE0IC0zNCBNNTMwIDQ2NSBsMCAtNDIgTTUzMCA0NjUgbDE0IC0zNCIgc3Ryb2tlPSIjNUNDNDhFIiBzdHJva2Utd2lkdGg9IjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjUzMCIgY3k9IjQ2OSIgcj0iOSIgZmlsbD0iI0ZGOUY3QSIvPjxwYXRoIGQ9Ik02MjAgNDY1IGwtMTQgLTM0IE02MjAgNDY1IGwwIC00MiBNNjIwIDQ2NSBsMTQgLTM0IiBzdHJva2U9IiM1Q0M0OEUiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iNjIwIiBjeT0iNDY5IiByPSI5IiBmaWxsPSIjRkY5RjdBIi8+PHBhdGggZD0iTTcxMCA0NjUgbC0xNCAtMzQgTTcxMCA0NjUgbDAgLTQyIE03MTAgNDY1IGwxNCAtMzQiIHN0cm9rZT0iIzVDQzQ4RSIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48Y2lyY2xlIGN4PSI3MTAiIGN5PSI0NjkiIHI9IjkiIGZpbGw9IiNGRjlGN0EiLz48L3N2Zz4=",
-    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM5RUQ4RjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNFOEY2RkQiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjY2MCIgY3k9IjEwMCIgcj0iNDYiIGZpbGw9IiNGRkYzQjgiLz48ZWxsaXBzZSBjeD0iMTcwIiBjeT0iOTAiIHJ4PSI3MCIgcnk9IjIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDUiIHJ4PSI1MCIgcnk9IjE4IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxwYXRoIGQ9Ik0wIDMzMCBMMTUwIDIxMCBMMzAwIDMyMCBMNDUwIDE5MCBMNjIwIDMyMCBMODAwIDIzMCBWNTAwIEgwWiIgZmlsbD0iI0I5RTNGNyIvPjxwYXRoIGQ9Ik0wIDM5MCBDMjAwIDMzMCA0MDAgNDIwIDgwMCAzNTAgVjUwMCBIMFoiIGZpbGw9IiNCREVCREQiLz48cmVjdCB4PSI5MCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNTAiIGZpbGw9IiNDOUEyN0UiLz48Y2lyY2xlIGN4PSI5NSIgY3k9IjMyNSIgcj0iMzQiIGZpbGw9IiM4RkRDQjgiLz48cmVjdCB4PSI2OTAiIHk9IjM0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzlBMjdFIi8+PGNpcmNsZSBjeD0iNjk1IiBjeT0iMzI1IiByPSIzNCIgZmlsbD0iIzhGRENCOCIvPjxyZWN0IHg9IjIxMCIgeT0iMjcwIiB3aWR0aD0iMzgwIiBoZWlnaHQ9IjE0MCIgcng9IjEyIiBmaWxsPSIjRkZEM0UwIi8+PHBhdGggZD0iTTE5MCAyNzUgTDQwMCAxOTAgTDYxMCAyNzVaIiBmaWxsPSIjRkY5REI4Ii8+PHJlY3QgeD0iMzc1IiB5PSIzMzAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI4MCIgcng9IjgiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIyNTAiIHk9IjMwMCIgd2lkdGg9IjQyIiBoZWlnaHQ9IjQyIiByeD0iOCIgZmlsbD0iI0NGRUJGQiIvPjxyZWN0IHg9IjMyMCIgeT0iMzAwIiB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHJ4PSI4IiBmaWxsPSIjQ0ZFQkZCIi8+PHJlY3QgeD0iNDM4IiB5PSIzMDAiIHdpZHRoPSI0MiIgaGVpZ2h0PSI0MiIgcng9IjgiIGZpbGw9IiNDRkVCRkIiLz48cmVjdCB4PSI1MDgiIHk9IjMwMCIgd2lkdGg9IjQyIiBoZWlnaHQ9IjQyIiByeD0iOCIgZmlsbD0iI0NGRUJGQiIvPjxyZWN0IHg9IjM5NiIgeT0iMTUwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MCIgZmlsbD0iIzlCN0I1RSIvPjxwYXRoIGQ9Ik00MDAgMTUwIGg0NiBsLTEyIDE0IDEyIDE0IGgtNDZ6IiBmaWxsPSIjNkVDNkY1Ii8+PC9zdmc+",
-    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNDOUI4RkYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGMkVDRkYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjY2MCIgY3k9IjEwMCIgcj0iNDYiIGZpbGw9IiNGRkYzQjgiLz48ZWxsaXBzZSBjeD0iMTcwIiBjeT0iOTAiIHJ4PSI3MCIgcnk9IjIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDUiIHJ4PSI1MCIgcnk9IjE4IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxwYXRoIGQ9Ik0wIDMzMCBMMTUwIDIxMCBMMzAwIDMyMCBMNDUwIDE5MCBMNjIwIDMyMCBMODAwIDIzMCBWNTAwIEgwWiIgZmlsbD0iI0I5RTNGNyIvPjxwYXRoIGQ9Ik0wIDM5MCBDMjAwIDMzMCA0MDAgNDIwIDgwMCAzNTAgVjUwMCBIMFoiIGZpbGw9IiNCREVCREQiLz48cmVjdCB4PSI4MCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNTAiIGZpbGw9IiNDOUEyN0UiLz48Y2lyY2xlIGN4PSI4NSIgY3k9IjMyNSIgcj0iMzQiIGZpbGw9IiM4RkRDQjgiLz48cGF0aCBkPSJNMzAwIDQyMCBMMzYwIDMwMCBINDQwIEw1MDAgNDIwWiIgZmlsbD0iI0M5QTI3RSIvPjxjaXJjbGUgY3g9IjQwMCIgY3k9IjI5MCIgcj0iMTYiIGZpbGw9IiNGRjhBN0EiLz48Y2lyY2xlIGN4PSIzODAiIGN5PSIyNjAiIHI9IjEyIiBmaWxsPSIjRkZCMTk5Ii8+PGNpcmNsZSBjeD0iNDI1IiBjeT0iMjQ1IiByPSI5IiBmaWxsPSIjRkZEM0MyIi8+PHBhdGggZD0iTTU5MCA0MjAgVjM0MCBMNTYwIDI5MCBINjQwIEw2MTAgMzQwIFY0MjBaIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOSIvPjxwYXRoIGQ9Ik01NzAgNDAwIEg2MzAgVjQyMCBINTcwWiIgZmlsbD0iIzVGRDRDNCIvPjwvc3ZnPg=="
-   ],
-   "reactions": 40,
-   "comments": 2,
-   "url": ""
-  },
-  {
-   "id": "s5",
-   "created": "2026-09-26T06:00:00.000Z",
-   "message": "ประกาศประชุมผู้ปกครอง\nขอเชิญผู้ปกครองทุกท่านร่วมประชุมประจำภาคเรียน ณ หอประชุมโรงเรียน เวลา 09.00 น.",
-   "images": [],
-   "reactions": 12,
-   "comments": 0,
-   "url": ""
-  },
-  {
-   "id": "s6",
-   "created": "2026-09-20T03:00:00.000Z",
-   "message": "บรรยากาศการเรียนรู้ห้องสมุดสีเขียว\nมุมอ่านหนังสือใหม่พร้อมให้น้องๆ เข้าใช้บริการแล้ววันนี้",
-   "images": [
-    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNGRkU0OUEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGRkY3REIiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjY2MCIgY3k9IjEwMCIgcj0iNDYiIGZpbGw9IiNGRkYzQjgiLz48ZWxsaXBzZSBjeD0iMTcwIiBjeT0iOTAiIHJ4PSI3MCIgcnk9IjIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxlbGxpcHNlIGN4PSIyMzAiIGN5PSIxMDUiIHJ4PSI1MCIgcnk9IjE4IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIuOCIvPjxwYXRoIGQ9Ik0wIDMzMCBMMTUwIDIxMCBMMzAwIDMyMCBMNDUwIDE5MCBMNjIwIDMyMCBMODAwIDIzMCBWNTAwIEgwWiIgZmlsbD0iI0I5RTNGNyIvPjxwYXRoIGQ9Ik0wIDM5MCBDMjAwIDMzMCA0MDAgNDIwIDgwMCAzNTAgVjUwMCBIMFoiIGZpbGw9IiNCREVCREQiLz48cmVjdCB4PSIxMDAiIHk9IjM0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjQzlBMjdFIi8+PGNpcmNsZSBjeD0iMTA1IiBjeT0iMzI1IiByPSIzNCIgZmlsbD0iIzhGRENCOCIvPjxyZWN0IHg9IjY4MCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNTAiIGZpbGw9IiNDOUEyN0UiLz48Y2lyY2xlIGN4PSI2ODUiIGN5PSIzMjUiIHI9IjM0IiBmaWxsPSIjOEZEQ0I4Ii8+PHBhdGggZD0iTTM0MCAyMDAgSDQ2MCBWMjYwIGE2MCA2MCAwIDAgMSAtMTIwIDBaIiBmaWxsPSIjRkZDOTREIi8+PHJlY3QgeD0iMzkwIiB5PSIzMTAiIHdpZHRoPSIyMCIgaGVpZ2h0PSI0MCIgZmlsbD0iI0ZGQzk0RCIvPjxyZWN0IHg9IjM1MCIgeT0iMzUwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjI2IiByeD0iOCIgZmlsbD0iI0ZGQUQzMyIvPjxwYXRoIGQ9Ik0zNDAgMjE1IGgtMzUgYTM1IDM1IDAgMCAwIDM1IDUwTTQ2MCAyMTUgaDM1IGEzNSAzNSAwIDAgMSAtMzUgNTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQzk0RCIgc3Ryb2tlLXdpZHRoPSIxMiIvPjxwYXRoIGQ9Ik00MDAgMjI1IGwxMiAyNCAyNiA0IC0xOSAxOCA1IDI2IC0yNCAtMTMgLTI0IDEzIDUgLTI2IC0xOSAtMTggMjYgLTR6IiBmaWxsPSIjZmZmIi8+PC9zdmc+"
-   ],
-   "reactions": 33,
-   "comments": 4,
-   "url": ""
-  }
- ]
+  "posts": [
+    {
+      "id": "103144785089449_1525513622924411",
+      "created": "2026-08-20T03:50:26+0000",
+      "message": "https://www.youtube.com/live/uAuA3Amf9OM?si=EnnHtmI0Oy_2ZvuK",
+      "images": [
+        "https://external-dfw5-3.xx.fbcdn.net/emg1/v/t13/15637918573238981596?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FuAuA3Amf9OM%2Fmaxresdefault.jpg%3Fv%3D6a866410&fb_obo=1&utld=ytimg.com&_nc_ht=external-dfw5-3.xx.fbcdn.net&ccb=18-1&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&edm=AKIiGfEEAAAA&_nc_zt=3&_nc_tpa=Q5bMBQKTK8lLHavGOCn23IeoM7YXFFt9DbtBea1l599U-7aornVbdhq6o3BddJL8vXectT1AGK-gXAvOvA&stp=dst-emg0_fr_q75_tt6&ur=50234c&_nc_sid=64c8fc&oh=06_Q3_EAWXn78eB5PWXNiScLtPiRakIVDSX-ft8fWxzcLNudQ0B&oe=6ACEEDD2"
+      ],
+      "reactions": 0,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/1525513622924411"
+    },
+    {
+      "id": "103144785089449_1178471310961979",
+      "created": "2025-07-04T04:12:36+0000",
+      "message": "\"โรงเรียนบ้านไร่ สพป.เชียงใหม่ เขต 5 เข้าร่วมพิธีรับตราพระราชทาน บ้านนักวิทยาศาสตร์น้อย ประเทศไทย ระดับประถมศึกษา ปีการศึกษา 2567 \"\n วันที่ 3 กรกฎาคม 2568 \nนางสาววราภรณ์ สุขหยอม หัวหน้ากลุ่มงานบริหารวิชาการ โรงเรียนบ้านไร่ พร้อมด้วยบุคลากรครูจากโรงเรียนในสังกัดสพป.เชียงใหม่เขต 5 เข้ารับตราพระราชทาน บ้านนักวิทยาศาสตร์น้อย ประเทศไทย ระดับประถมศึกษา ปีการศึกษา 2567 \"ณ ห้องประชุมแสงเดือน แสงเทียน ชั้น 2 อาคารพิพิธภัณฑ์พระรามเก้า องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ ตำบลคลองห้า อำเภอคลองหลวง จังหวัดปทุมธานี",
+      "images": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/515491806_1178470944295349_985240351054358123_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IhS8c5FIahQQ7kNvwFg6XgF&_nc_oc=AdpGS0YVzhRvze3u2_5RWwDSvPJ-rTrfoLbvSLyrc-6CpbsPoU8-WZ2mYQts8QMsHDE&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLeqb4clldCIh19uOKqdWN8usBkqxTkEatq_UpRfUritbFoSqkg-TpMBlHNt4DoWLPCUiCdWQT7fQ&oh=00_AQNqJ0DnheTc-byD-I3j9PCq2PEvEpNZuPw8pvhgKWmnfA&oe=6AD2DC2F",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/514952499_1178471170961993_7981832899520698635_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DfMIQnqLSb4Q7kNvwGtERDG&_nc_oc=AdqKZI0usrTRTzAhvC4wtbMj5arVOIt1JSgFjo2KG-bRzjLMe4UI_ZP157Z6Dpfjqs4&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQK5KKPSfhFTthu8pan7yMP7gp7FbLA3p3PwoS7nWf5d4v8Au8TUiqnGgt3tNwfrdwePgHRvqsTNuw&oh=00_AQPbXTXrWoFBuobhkYZfINPEGLSSC9F_HOtkzyC9u6dXjA&oe=6AD2F225",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/515264416_1178471330961977_4886981079258100651_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ma0g5k8-5XIQ7kNvwG99ytX&_nc_oc=AdoJYLW3b2WFIrSTtdiDWbeT2rvS-ffHC_mPZ4-ujEAxDu513kFTvME6CAjPLP5Y9OI&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQINGqviy4eXlYAsyw1n2YhQPjy_hnFhlu5hrQYk2hxarS8OLiBmXIp3MP1UBvycQtV4KmDN2g8-Sg&oh=00_AQMT-rcikqFOIYTBmguMzP-CM1XVslCKpnXGDnjaqEMWhA&oe=6AD2DA8B",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/514279760_1178471277628649_6018971493016566372_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=p2BNl88sSRoQ7kNvwGEOV_R&_nc_oc=AdoUSIbEgZ5iTjEI70ckaML79M8MYp32RDTy_gYB8V39GlXPbuXxoc-_kT8QvQfInbI&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLx0ipDnLS8M-bxSfhniyhHRtu1-HdMTV_AAUNbzTHscTcnCdjJtWL6fMhXFy5ObNnRSWYSJn6aFQ&oh=00_AQP4ucrsAzP7JxsAEHtEjm8htpmuPuXt6BKMFzmL8_Luag&oe=6AD2E071"
+      ],
+      "reactions": 12,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/1178471310961979"
+    },
+    {
+      "id": "103144785089449_1036645078477937",
+      "created": "2024-12-31T04:19:28+0000",
+      "message": "คณะกรรมการสถานศึกษา ชมรมศิษย์เก่าโรงเรียนบ้านไร่\n\nขออนุโมทนา\n\nนายศรายุทธ แดงสี\nพร้อมครอบครัว\n\nร่วมทำบุญทอดผ้าป่าสามัคคีเพื่อการศึกษา กิจกรรมคืนสู่เหย้า ศิษย์เก่าโรงเรียนบ้านไร่ ๙๒ ปี ราตรีเหลืองดำ\n\nจำนวน ๑ กอง ๒,๕๖๘ บาท\n\nขอให้ท่านและครอบครัวเจริญด้วย ลาภ ยศ สรรเสริญ สุข สิริสวัสดิ์พิพัฒน์มงคลตลอดกาลเป็นนิจเทอญฯ\n\n-------------------------------\n\nขอเชิญร่วมทำบุญทอดผ้าป่าสามัคคี จำนวน ๙๒ กอง กองละ ๒,๕๖๘ บาท หรือตามกำลังศรัทธา\n\nร่วมทำบุญผ่านบัญชีธนาคารได้ที่\nธ.ออมสิน สาขา ดอยเต่า\nเลขที่ : 020428036675\nชื่อบัญชี : วัดบ้านไร่ (พัฒนาโรงเรียนบ้านไร่)\n\nติดต่อสอบถาม\nผอ.ชโยทิต น้ำดอกไม้ 095-1428816",
+      "images": [],
+      "reactions": 0,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/1036645078477937"
+    },
+    {
+      "id": "103144785089449_1000890308720081",
+      "created": "2024-11-10T06:57:47+0000",
+      "message": "โรงเรียนบ้านไร่ ขอขอบคุณ\nผู้ปกครอง นักเรียน ผู้บริหารและคณะครู โรงเรียนวรพัฒน์ จังหวัดสงขลา ที่ร่วมบริจาคเงินสนับสนุน ช่วยเหลือในเหตุการณ์น้ำท่วม จำนวน 6,190 บาท และส่งหนังสือเรียน แบบฝึกหัด หนังสือการ์ตูน ของใช้ ให้นักเรียนโรงเรียนบ้านไร่ครับ",
+      "images": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/488665038_1109522121190232_8245243196470637616_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=l_QRD7S-0N4Q7kNvwFqg-Qi&_nc_oc=AdpIPvx6oCkHiqkVNl-i0C281JJaWV_CgLVXtqLKcXbSJ7FafI1nbl9m_jd0OqUGNwo&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKutnQD6ifNuFfnAq2TaNrVoJiXFzc4S0p-dnHSfnE0rMtmOWhc00bxfuxoMC1I3wSQi52KU_GE0w&oh=00_AQPd8XzwTQGYlVL1VPq4_PMjEbwcJdLwG2IZyXP_tDP4qw&oe=6AD30623",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/488848160_1109522327856878_6287173810210959878_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZleyMsbiyc0Q7kNvwFS5EMK&_nc_oc=AdqAys93QoboQAaswPA5qYYQ2pV3x4b55X4cxChoo9JjUOzKGb5S4iCNNUWNsYEt1j4&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKejPw1Ue_F4U6t7fPjtRkcx2oUaZ3rJZy8lGRbcZuLQjX6t8MF--Am2Z3E8UY8bU0LVYzcTlTHag&oh=00_AQMhI2XIMVb8XbVdo7alXwVAgzjiuUiXN0JIIxc1Gf7JZw&oe=6AD2E134",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/489019467_1109522301190214_6070619963623686486_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YRBUVAWMeIQQ7kNvwEgYdyk&_nc_oc=AdpRxd1nRg6ucc4LJcDv2IPJUSM_GLnbaMQ4Gd3GKXxRJSsky11W86x56ZGiq86ca40&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQK4YutaE40SKeKWnxK6wMSUFqY3hoxnnIKrdVvztPJ44uj_l_ofsgbegxXFxcbvDHqxBB_21Q6LEw&oh=00_AQPlvBbNApatZ-MEcU5hOGFoj-hx9nP4hgGBhWqnyUFIfQ&oe=6AD2E805"
+      ],
+      "reactions": 8,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/1000890308720081"
+    },
+    {
+      "id": "103144785089449_972101261598986",
+      "created": "2024-10-03T03:44:45+0000",
+      "message": "ขอแสดงความเสียใจอย่างสุดซึ้ง.....",
+      "images": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/503155474_9728933783870581_4378178789686560972_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VTHG8kwRHL0Q7kNvwGe_aik&_nc_oc=AdoUieUym0P99ZV7ja_PcFGrARrhfnVjmvOt12a1JwLq8brCncdXdGuTqgiV6BqHZM4&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLXihPTXDh0OtR5Xg_ssFr0NZoqUBLB00tKDYIeEB6XW_uM1Tde7pb4we7BfekDWje9NKnOmUMHAQ&oh=00_AQPW_22clNvWCv-DAF8qhS8G9cuwdpV4rDyQ_C0IyBxSmw&oe=6AD2E168"
+      ],
+      "reactions": 8,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/972101261598986"
+    },
+    {
+      "id": "103144785089449_968943798581399",
+      "created": "2024-09-29T02:43:28+0000",
+      "message": "การบริหารจัดการแหล่งเรียนรู้ ที่เอื้อต่อการเรียนรู้ แบบมีส่วนร่วม.โดยใช้ .บอวร (บวร)โมเดล",
+      "images": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/461269857_1163645794729923_7461410461937736773_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=0E7Sbw3ZID0Q7kNvwGGgBqG&_nc_oc=AdodgGQkXkBR92T9xOlXwf4TMCMk7ShZM1eIk-QcW01yRMj8WHofbSt-OARN9ODNlKQ&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJrZIlb1O3_dLLUz-4s7gdhoBLsqaaTcdAFp8IeAjxTdNhS5fqM_bIQoaD-jduV14q-kb8azyxq8Q&oh=00_AQN5qWNsDq5cmuRgYBeZACJfXmMe7-n9y4kzhds79NSIsw&oe=6AD2F42C"
+      ],
+      "reactions": 6,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/videos/3696250180625247"
+    },
+    {
+      "id": "103144785089449_963066069169172",
+      "created": "2024-09-21T14:44:26+0000",
+      "message": "การดำเนินงาน \"ห้องเรียนคุณภาพ\" ของโรงเรียนบ้านไร่",
+      "images": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/460882856_3266452763485306_5253173991862360135_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SFfcoClACtoQ7kNvwH6hrpo&_nc_oc=AdoPLlSApeUyf7vOSdFhMuZwpH1SVnzLZhscFdGgegDCfBkv-fVid-AA6MHUr-jzt60&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQIHIPO7Og589geBB6IWbq8JlbZWwHdefSLApjNlynRvs7rEBEpuGQNlu7prGs-YOsxKQGuYi9I3wg&oh=00_AQOlnIXenzuDwrR5F_2gWrxiywU-cvxQKRo40ecHqiBbWw&oe=6AD2DA57"
+      ],
+      "reactions": 11,
+      "comments": 2,
+      "url": "https://www.facebook.com/1575829044559535/videos/1697459641101240"
+    },
+    {
+      "id": "103144785089449_936798878462558",
+      "created": "2024-08-15T16:50:41+0000",
+      "message": "",
+      "images": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/455819042_541425921782323_4302446220194112392_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=4eef78&_nc_ohc=95zP0Tv-nZkQ7kNvwFp9C3q&_nc_oc=Adq0IpB7UEzHZmZkTv1tfI0L2ZlTxfFTPFRtTzn_g_U-xjGeexgh-4QHZNdI9d0lqRA&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLIIfpAuvE-4p7pieCdtV_7RhCOGlv5-rQ_on3h3FABqI3RIyBmBF08pVuhih73qZNce-oQ39S6vw&oh=00_AQN8DtZspagReSUeOpAM73wJkGtGwslhwWDpT0RvVDLc-Q&oe=6AD301A3"
+      ],
+      "reactions": 0,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/videos/901060658521121"
+    },
+    {
+      "id": "103144785089449_936798571795922",
+      "created": "2024-08-15T16:50:22+0000",
+      "message": "",
+      "images": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/455331037_975339384392422_7685522340076157698_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=4eef78&_nc_ohc=Ngug7fzpr5YQ7kNvwHfCsP8&_nc_oc=Ado3XddVmvPy-5y8YRCeryaIuA1OFGPftYOCYyKiLw3gIwkH5tnwe97KC1l7918UHoQ&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKRBHOTMAxT8J2_fW3DFAbwCDrJe2lmfC-vMRdwsaTbJTY29I-tXzj6lkVuNujIPL6YO6WqDbIFjg&oh=00_AQMx6VfOQZPYctYnTJaFUGh6cSM2oWtIldj3FRNr0xecOQ&oe=6AD2FE7B"
+      ],
+      "reactions": 2,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/videos/8567569466605505"
+    },
+    {
+      "id": "103144785089449_936798015129311",
+      "created": "2024-08-15T16:49:31+0000",
+      "message": "",
+      "images": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/455831515_392092593559943_4341966277355579966_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=4eef78&_nc_ohc=IdW2XwfZ2CEQ7kNvwGYlpjs&_nc_oc=AdrbCptAQiYL4LiZhXaDfnxe3HRyUkyc8TYKjnfvWo_C00t1L3V0ftFyvw6TKj8PBJA&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJTKo7sFk6R35pHyjybfbbPlFpDWyzC8RsjE1ZtYUg3oR0NZos73QyM_OZ6Vez9RMkK2X1RaFLKGg&oh=00_AQMDvZ4rW2HWuTiYT5fSQkLPr2ke9CD-9wQcyZMyGMU5mw&oe=6AD2DF9C"
+      ],
+      "reactions": 0,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/videos/495790126483331"
+    },
+    {
+      "id": "103144785089449_922115609930885",
+      "created": "2024-07-24T10:18:48+0000",
+      "message": "พาลูกชาย ลูกสาว ชั้นป.6 \nร่วมกิจกรรมฐานการเรียนรู้สหกรณ์ก้าวหน้าร่วมใจ \n#ศาสตร์พระราชา   #ศาสตร์สากล  #ศาสตร์ภูมิปัญญา\nที่โรงเรียนดอยเต่าวิทยาคม",
+      "images": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/485756744_1234930548196725_5058523195439640364_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xKg0b6KQ_AkQ7kNvwG3eb31&_nc_oc=AdriXod-2uA_cBGQqTQOGbHjLOPgYZJQs45wMqKO4BIKHlrq4DpXuSSGuLUxmrAmq4o&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLInoD9ZKWbl5WfTwZV6HDuVlty6RqGTEryFQZ6JEU7FgQBUuZpHSKZj_ASQ7oT1AMwL4waGc3-aw&oh=00_AQO2tf2c42-HE355F-kMC2ESvpish80hQSJojpACBo8NoQ&oe=6AD2F074"
+      ],
+      "reactions": 15,
+      "comments": 1,
+      "url": "https://www.facebook.com/1575829044559535/posts/922115609930885"
+    },
+    {
+      "id": "103144785089449_912950740847372",
+      "created": "2024-07-10T06:56:15+0000",
+      "message": "หน่วยความปลอดภัย ของหนูน้อย",
+      "images": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/639580045_2100218347429366_1212975728187049103_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Ad27HeA851gQ7kNvwHTqaw9&_nc_oc=AdrvyaF935acfz_-OK-jhW4fw8PKSETjPjylas-QhEbMcjm8HNS2Gwim8cvduVOf1q4&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJtIeth7eHVpHX39pUOkc7ojKgSFLuc3beyDXgituCevwhPjkxyki7y6vesWAGy2rVhBZRlHipsrg&oh=00_AQMaSVyymYQ_1VvKz_KufeAHK_QReYTqOv_sYRuTDd6EWA&oe=6AD2E1D1"
+      ],
+      "reactions": 4,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/videos/7762764050436092"
+    },
+    {
+      "id": "103144785089449_911158577693255",
+      "created": "2024-07-07T15:16:42+0000",
+      "message": "\"เรียนดี  มีความสุข\"",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t15.5256-10/623002032_920177707115146_5351588502960454080_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=-QLvDZRx-WoQ7kNvwFXexFO&_nc_oc=Ado7pPofYoAd0eEbZiDbGMUKEg_hifotDKFLyi0mS6NXkecSV-sH9059QDik4GHLMYA&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLiRCEXel0P2JzdCSddEvpwIuhp0D6T6wf7CLtUMPmirNbXZ9dSlHFIMQgMVxijrFnGPpfMFuVzBA&oh=00_AQOKfbjzODhxfWDf_1hRSlgsUvbIfF3BjZyxrodjTigUcQ&oe=6AD3092B"
+      ],
+      "reactions": 14,
+      "comments": 1,
+      "url": "https://www.facebook.com/1575829044559535/videos/1923828078119231"
+    },
+    {
+      "id": "103144785089449_888235996652180",
+      "created": "2024-06-03T04:03:32+0000",
+      "message": "ขอพระองค์ทรงพระเจริญ",
+      "images": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/487506414_1104890151653429_1564251394897119600_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LqtLthBjOAIQ7kNvwGa94D9&_nc_oc=AdqfQNYWHDnoYZAIssIltz07YMsj8LqOQl99nQ7K44pXeGKFHnUZ7qOgkWP6_uv8CTc&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJPaub92A1sHJt0HflqCkRpyNgVlF5fbLM5e7EcLN1-PrLl72gbxhBVazIKvnsj0u2w2TEKLndDhw&oh=00_AQMsYDm6N0ux4jfcsoTb16hCL3Q3oyCU2iEDUa7NLRQc2g&oe=6AD2EDF2"
+      ],
+      "reactions": 1,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/888235996652180"
+    },
+    {
+      "id": "103144785089449_886930846782695",
+      "created": "2024-06-01T03:50:57+0000",
+      "message": "https://youtu.be/qYUXbLkCnxM?si=DY98peivoRaGLrpB",
+      "images": [
+        "https://external-dfw5-3.xx.fbcdn.net/emg1/v/t13/8188308022899016454?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqYUXbLkCnxM%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&_nc_sid=50234c&_nc_ht=external-dfw5-3.xx.fbcdn.net&stp=dst-emg0_q75_s1280x720_tt6&ccb=18-1&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&edm=AKIiGfEEAAAA&_nc_zt=3&_nc_tpa=Q5bMBQKBBRj2HU2ns-kChPz3UWiAWmrBhcwjYwMch2ZqGX4BndfUrL7_Wqw0YrU2HO9nFCx7VX7Kt4RTPg&oh=06_Q3_EAZFpgPxtTGCGD0t16nl2Q-jUZll0HRxz-vSyOxuWpV58&oe=6ACEF736"
+      ],
+      "reactions": 1,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/886930846782695"
+    },
+    {
+      "id": "103144785089449_882564617219318",
+      "created": "2024-05-25T09:10:58+0000",
+      "message": "วันพุธที่ 24 พฤษภาคม พ.ศ. 2567 นำโดย นายชโยทิต  น้ำดอกไม้ ผู้อำนวยการโรงเรียนบ้านไร่  ได้นำคณะครูและบุคลากร  พร้อมทั้งนักเรียน ร่วมกันถวายสังฆทาน ณ  วัดบ้านไร่",
+      "images": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/493799231_9428960927201203_2238669126699292404_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=r9j1YqbhAzIQ7kNvwHIOsmn&_nc_oc=AdrGjDxs2jg6dfnnrIJcPMD3gP3ERaLkEhc7VzHBrv6mGHXZNqKEhSup8Xjyk-J5wpY&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJ0uEl8nYFEe7GX29cwjU8MvNNDhlS-lKMsh4Fh8q178SnSE7lGyFciK2Q3cN2lCKDmegcpHzP9ZA&oh=00_AQO4q1kpGFjQhHO1y0Yitb8n1xEa0CW8KvsJJHMMJsEtiA&oe=6AD2D814"
+      ],
+      "reactions": 2,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/882564617219318"
+    },
+    {
+      "id": "103144785089449_882559253886521",
+      "created": "2024-05-25T08:58:53+0000",
+      "message": "วันพุธที่ 24 พฤษภาคม พ.ศ. 2567 นำโดย นายชโยทิต  น้ำดอกไม้    ผู้อำนวยการโรงเรียนบ้านไร่  ได้นำคณะครูและบุคลากร  พร้อมทั้งนักเรียน ร่วมกันถวายสังฆทาน ณ  วัดบ้านไร่",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/494050669_9428960917201204_8336804528279710102_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y6aygL0DECMQ7kNvwGOpTzm&_nc_oc=Adr0_5RPg0DM5Hz0RyH0E64pXwTXXF5PL7V2PtnP-m8yS1-hA7Vdm2Iqxg3yhZ0vlCE&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQL4tFXr4lS05aEUqbOBFqZ8E8yZBV8v8vEqZHvUYYMjnL3z5pUxe8E4jpK-p8Gz8ia7kHJeZVQvYA&oh=00_AQMCuY90vsKS4lppggf-GCMRtzrHgYhD1PyC0sce9KKRBA&oe=6AD2D419"
+      ],
+      "reactions": 4,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/882559253886521"
+    },
+    {
+      "id": "103144785089449_882018723940574",
+      "created": "2024-05-24T12:28:08+0000",
+      "message": "วารสารประชาสัมพันธ์ เมื่อวันจันทร์ที่ 22 พฤษภาคม 2567 โรงเรียนบ้านไร่ โดย ผอ. ชโยทิต น้ำดอกไม้ได้นำคณะครูและบุคลากร พร้อมทั้งนักเรียน ร่วมกันทำบุญถวายสังฆทาน เนื่องในวันวิสาขบูชา",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/493895843_9428956187201677_6239271122227575559_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YXKkCZOhmS8Q7kNvwFOWKom&_nc_oc=AdrLxRyVYoFm-bAaPisY-SUDhRzCuEB8r75BOUk4darK8Rm751uV0-mfKxJjq7lAIlI&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLHlsbesF5L5eO286-ySj3PR-KqXhPAa_B4ODe1c2UGSgh4N3HJ2HzP1TRZ6OG_NgV01-kiBg1pTQ&oh=00_AQNdwmFLWR5e3h6DExqNZZudlM_0asMS93P8gX4y8o-DZw&oe=6AD2F23A"
+      ],
+      "reactions": 5,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/882018723940574"
+    },
+    {
+      "id": "103144785089449_880817690727344",
+      "created": "2024-05-22T15:02:22+0000",
+      "message": "วันพุธ ที่ 22 พฤษภาคม 2567 โรงเรียนบ้านไร่ จัดกิจกรรมทำบุญถวายสังฆทาน ให้กับพระภิกษุสงฆ์ เนื่องวันวิสาขบูชา ตรงกับวันขึ้น 15 ค่ำ เดือน 6 โดยนายชโยทิต  น้ำดอกไม้ ผู้อำนวยการโรงเรียนบ้านไร่ เป็นประธานในพิธี พร้อมด้วยคณะครูและนักเรียน เข้าร่วมกิจกรรม ภายใต้การดำเนินการจัดกิจกรรมของกลุ่มสาระการเรียนรู้สังคมศึกษา ศาสนา และวัฒนธรรม ณ วัดบ้านไร่ อ.ดอยเต่า จ.เชียงใหม่",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487511589_1104501285025649_7648724939477081536_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fEh6FSYWVQ4Q7kNvwFmie8t&_nc_oc=Ado-2gf-emc9YALQHcV1StgmFizDsmrRcG3L0MGgG11AY1mGUuHiTECCw06vGt5jefk&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKYU6rOWFB6tkV9TDOZ5InNwDHFqowYsWOfGTCfDNcRCX-q2_KMgqKtHVrkcx1zb4Os9_ZWbpAlQg&oh=00_AQMrXWjpmrFL0mbmPw_MpwwFnJeftLSC-PcI6plyN7ya8Q&oe=6AD3066A",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487475122_1104501335025644_8660475193823685940_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uMxAH52fHPoQ7kNvwGvum9u&_nc_oc=Adow7UFPXuIxZQwe-tUKARjTXe1sQMOL2hySAks4son9iDtY_nSXcQ97uvGxdiQ7HCE&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQK0emI9x1CiYp8m8e8IKKQ0nbVtL-d8hSrAZQDxocHUJ3rfjYeFsRqfT4fs8uzTPbjN69ILwfUZLg&oh=00_AQPc-p6Prd3CbogoJZW8yv4FVyZgWab7y_sTahie0ahRpw&oe=6AD2E198",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487178005_1104501268358984_4678631460515905297_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BvdVLOBpCLQQ7kNvwHXuqVE&_nc_oc=AdrQT9yUzcM2iqa525RSndCn3hbQYVL-RPTAnUR2UMDyWgpy-SuqWHosnraWLfFrbgQ&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLdPA1jFxTdQaxPGz_YbFUBWeOVvZxw9T60ZrtCtYbGzZwM9PSvlHC7r6jyQDlBhjFthfuQy7dmLw&oh=00_AQOSY80Y1F3kdktSQjQO7ifFTB9lrnnh45HoZTZQIVV-9Q&oe=6AD2D9B6",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487478813_1104501295025648_3424878565000466723_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yoiZr17fPygQ7kNvwFmMMYN&_nc_oc=AdpatU9dkUQLtFnfsXK-i6UP_u0dmSw7AjCZwfmyJ_nII7NNYN4j9YT0Ph3VOdmS-fU&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLn-8qcYG-rwhWispQAZ1O7R2oJh6kBs095GpWaKvysm1YmL9gBJZObU3X_5XH6hkRFU50_T-65UA&oh=00_AQOsRwkjyORBZYy4HTbNwiJrvuQQ5s4OVs9MG2P1B7p3Jw&oe=6AD2F1E3",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487374998_1104501008359010_2526217145678706245_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uzIqgBtSglIQ7kNvwF8Mc3V&_nc_oc=AdrprHp2xA2t4Jv-NN41elhSEuv-Qa46nVg84tUl8y9AKWsoKtdVstWLHRAHQaZc1i0&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJdvCfH0ZZeb058OGzAfct2g6YJJ-WknapBLsVwm7tOycCe8GA4nv9lDT8-OD9u9H1LZmfPZS49jg&oh=00_AQN2zHuAx9h1vJfEPOywO9zrmHMF6huy4slSuKfY-iAs7g&oe=6AD2F821",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/487977044_1104501365025641_8756746845514544333_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v7mAZfsFWf8Q7kNvwGS1XuF&_nc_oc=AdpEdxkbZRiWlWnmJWByTmEZg9ZXS9twh_BH02krUBPm0V2maklzcghxHUxFVONTmLs&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLvNyn5DDZTJhRYNj3pxiRfYSIOoQNzpPsB3TEXgW6q2Qs-ryvk6Krfsa7NUKVdov2ke7j225Ju-g&oh=00_AQPF856ck-0Xd7bwYbuvS69LDf8gVErj6ikaGsjNcFtYoQ&oe=6AD304DE",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487138812_1104501215025656_5333134735664832412_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GSQ9R8zarMQQ7kNvwH4co5A&_nc_oc=AdpwE55KTVK7PLPnLTa1dB4qzHeZGP20veM5dbrYspMqm7kgXlJDQlsCS2OKcKgZkVM&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJsa9DueEVRz_y_XOOGXOdE3MV4LYLt7wWWnp7Nk-EL_rXyeb2wVavoH045p9KLtUFwV0bvZLaUUg&oh=00_AQNgZA-sXhB8jDiHgL4iOZ-T1kE4blK784ChXsS359jEQQ&oe=6AD30769",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/487367997_1104501358358975_7768479301497603113_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xUBeFbKsl0kQ7kNvwEO6weF&_nc_oc=AdqEN7o2UNygl4-MhQ9kEeWgklIZHTBdBu-2iXWUEAymNnh-Pc710iRl6OajKS1xkDM&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLN_YwrHkWPRbSqryFmStZQMy-9xpu_zYMMEMYcrf_dglL-xIbrO4M4vhFu1NHK4L7smqEdVOuwfQ&oh=00_AQNy4o1jFma-ebZMSLusvwlTvqEPKFKwEYjN1ABE5-7YaA&oe=6AD2DF2D",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487369709_1104501211692323_1655053954630908717_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eQPHJOLCG1YQ7kNvwE55cOF&_nc_oc=AdqXaCrpQ4JsMMf2MAKyLybLCeXP1TFd5Up_wETHedkpz1gGIFnijnNcb6B5DPPDg_8&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJlWSds1QKyyz9_rLNNwzyD4p9F1TC9OPASdcyyZtKkCwMnrcKB9jDmN6nWnr690xo9sgQo34QdTw&oh=00_AQOpdBNm3-B6cuhy4spGwXmf1_r1R-i6dvlhgnAFvyI7lg&oe=6AD2D21B",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487452553_1104501238358987_6749550714263338466_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YxGuAI1Jla0Q7kNvwFJGk7y&_nc_oc=Adoi_iYmjdUj0czHxcu4l0zU_e3M9TuHVNrW5ta3LgTtfQfDvZtbp5Pb-pchYPqOnM0&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJwXVvcYxg1gGVhGsU-hYmGMn6IpwDq5oLYsuSg1mbmowzGMOn0J1otoRJTubnPJ66d2kZEBZQzSw&oh=00_AQN0G1J2_uOTEfhHFwXvyUiFAMlBtA9N-KiObWfGzn7-kQ&oe=6AD2F334"
+      ],
+      "reactions": 6,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/880817690727344"
+    },
+    {
+      "id": "103144785089449_880810190728094",
+      "created": "2024-05-22T14:51:10+0000",
+      "message": "วันพุธที่ 22 พฤษภาคม 2567   โรงเรียนบ้านไร่จัดกิจกรรมประชุมผู้ปกครอง ภาคเรียนที่1 ประจำปีการศึกษา 2567  โดยนายสมชาย ปัญญาจักร ประธานคณะกรรมการสถานศึกษาขั้นพื้นฐาน  นายชโยทิต น้ำดอกไม้ ผู้อำนวยการโรงเรียนบ้านไร่  พร้อมด้วยคณะฝ่ายบริหาร 4 กลุ่มงาน ครูประจำชั้น ได้พบปะพูดคุยกับผู้ปกครอง เพื่อการแลกเปลี่ยนความคิด สร้างความสัมพันธภาพที่ดีระหว่างโรงเรียน นักเรียน ผู้ปกครองและคัดเลือกคณะกรรมการเครือข่ายผู้ปกครองนักเรียน ระดับชั้นเรียน ปีการศึกษา 2567",
+      "images": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/486825873_1104501368358974_7897873075374828471_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UTAZpd5y-AAQ7kNvwF-xf7c&_nc_oc=AdrdYd9jI_i8lwAo6hpsyQ0hPzN8R02MK8eioJWUypXoFGh46RgbjkURsx_NaIIh62E&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKV6IHUaf7qwZl4EGt4kyj-1pDU_iLq_crrbD_shK6oWgJWO2nnGhpDDAEjcxxfhOSLl1q4e6-Afg&oh=00_AQPCR2WQqjrKhratq87ZsOg8DRC7c9O2O9BBiM1fngKveQ&oe=6AD2DD0C",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/487252494_1104501351692309_8752911458140440731_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FWEKPONTIzMQ7kNvwH4K8Pu&_nc_oc=AdrLFFMhDqR-PLLOk5Guln-Zc0Of9w6Ne2_LsNyn4q-_8THU8eHfDqoalunaB18RHq4&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJYaZLrH7iYbnrz1cl_sm0cdwWu1yHswC4skrK7dCXqfqSav0FitHHrizzIjenWXx_2cV8VduoB0Q&oh=00_AQObx0gLvhk8aewhqEnHaAYRkRHpui2hPha5O-Xzb_WuhA&oe=6AD2FAD8",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/487476710_1104501411692303_2352521222992515827_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=naMs_ezhGfEQ7kNvwGHeWrj&_nc_oc=AdrQW9xVKfmDGyAODXJI5oVm8XxQQ52hmQbyymHkjL4g1UHqtjGhzPfxuy_f2Udo8GI&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQIzhIdvBHeerHZ4Z3zAS8sb_zJeGeusY3Y89T_XA_VzElPuaicLlsgYLsiyknBf1nUOqO0duzn6hA&oh=00_AQM2QuTmbHCw2GXA-uhnXyYcTk48gbzhHBJ9K0LpRJJuPg&oe=6AD2F139",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/487454535_1104501035025674_311152691608416976_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CB7FMCg2El0Q7kNvwGmhYCA&_nc_oc=AdqObLmQ6RPq4jBJqeom8Cacb8KC9TdWv9O_5PtQ2sK_ksGQIVwoBIo1Jjhdb6nwWSE&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJO9hdxLluFNVfFykYeL68-oHTqRWFAQeOc8RuZG_p3TRTBRkTj3BmJ5kgz8voW4i34fVv8k5sXqQ&oh=00_AQMtpGnBWPYCx2CeVRuUJYjPTMZAPBzVFZGNVGF3yEjnVQ&oe=6AD2F43B",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/487177757_1104501228358988_6537214075414763053_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_GWL3MGNCpYQ7kNvwHwt_T6&_nc_oc=AdrMglMcAz8VetoKq079nc9uT5-g1ljcfSFyVyP4UezWDEmQ566LvPrHtBtqST4vaNs&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQIBd0rEkWSngppreaMAP1eCuUgjMJhJ3BKF9GewlCkXwyeWBcxkBBWdoOWdrqdUTLpCOs1PAcI7cw&oh=00_AQOt8wpY0MwMIjF2CgWvXYo1oPcISlFvqnfnyrQh0T5vSg&oe=6AD2D825",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/487476962_1104501031692341_4829110089372149958_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R-qwIv9_gisQ7kNvwFIxKWI&_nc_oc=AdoCKH0RQaeR9QKEJphUQiFzX7pDmhIeyCU3R2fgSvJUWjnJlLqsoZlBfkHwRHQawoc&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJnl_zvVhkRjPB_mEI-RdFnPi4SQqr2VnHGEKRmuZfQSKDIEEOkjCkDBY3GxkT1FH-QJPUZ__jhZg&oh=00_AQNAGioLGqKfC3BjzQi__4RCQVh84-8vDgClNgE0PpssvA&oe=6AD2DA96",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/486723867_1104501245025653_4258064971839987665_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4x5AFmFyI_UQ7kNvwH9JiXa&_nc_oc=Ador7ztLLIh8KCbdb37OLFubHhZRZONqTQ1dMq0IbkkJ0Q9DjveSa_AcPZ3ociEJ_bM&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKfWdiyTia3x_ecisFMHuY4s2-WS3KCv0eFsWOf8kLzEQ_yXdMWqbINLe-K0i10X6vBWmcCDgeyjg&oh=00_AQMTdU7g0MdoiJNRrtCltNjWDU3qLX1zcei4b4C95VVwAw&oe=6AD2E0C6",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/486844251_1104501361692308_5270104353573453168_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=K_LBvfy-yqYQ7kNvwH40eRs&_nc_oc=AdpwQ-TTd2J0t7lCRB2w0WssbPGVXHu34yHJ-1mamhA_MAATACPZhfSLz1eZZvMS9BY&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKQOP5MsfC4coJWlT3Efy-SzkLNTcYiX20HlPX-9y5eo8n27vSyneSlRkJWEAPHPtyE8-s88PhKaA&oh=00_AQPFWiop-0WrFPJq3HtXsN1_gFxuia3w8by8zzc_fMCK2g&oe=6AD2E6DB",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487510954_1104500995025678_7825468520798645910_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ze_zx8MZf5sQ7kNvwGu8p3C&_nc_oc=AdpqVI02AK3F1WSxx2uWFo8ufarl31jvOJuxFjvT2_kOlWJ0KBeBO3oCNEPzEbs1LwY&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKnzrc5Ovr9PmATXFRWzo70X0wVFrp2igR8E7NUy0qBk6rZYLgDFzJICoDnFlpQHtr9M9Uwr3748w&oh=00_AQOdpmHHzRvr5dq2gR8n2tckGCBr3PH-oor53kVr5Y4Vrw&oe=6AD2EC3E",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/487506059_1104501221692322_3078134657890425872_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XRnf2lZ3Zj8Q7kNvwHMuGUa&_nc_oc=Adoh7mM2FIMgNu5Jvzr1vlx7cEZfizjHNNsWTshjeLR-DX32JmevTrqukv71DGRsfDY&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQI4bvngrqITDuc145naVFlWzxDv1zsaTZBIsa5OHDk2ppcG_DEPzyhYLXDrKBkDVrYrjsfMbhm-ag&oh=00_AQOtlDRFNzXnW_kqZ05aFCoMAHwcJPXAYIItdHcWFsFrhg&oe=6AD2F109"
+      ],
+      "reactions": 7,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/880810190728094"
+    },
+    {
+      "id": "103144785089449_877151787760601",
+      "created": "2024-05-17T13:42:49+0000",
+      "message": "ประกาศ โรงเรียนบ้านไร่\nแจ้งเปิดทำการเรียนการสอน\nในวันวิสาขบูชา \nวันพุธที่ ๒๒ พฤษภาคม ๒๕๖๗",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487314983_1104089655066812_581063878307553994_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Hvg4Bb_RKBgQ7kNvwGcfYmp&_nc_oc=AdrCdYIiJuR9M3dzyz4OiyaNNdesHPs6oTGJirLFa92bDqPMV7Ms7j-650Sl5uVCuNo&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJnAtNKZcimfE3cA51pkzmWBSJ-nZzVKZvn1_np2D2d8bbZ__7YhP2bO2_4TKgppX--8CiSnsXFuA&oh=00_AQPNqnVHeyrP-fDMj6u9fwWsa0mVhHvaQpECvLZ9RRR0nw&oe=6AD2FCEA"
+      ],
+      "reactions": 3,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/877151787760601"
+    },
+    {
+      "id": "103144785089449_877148901094223",
+      "created": "2024-05-17T13:38:21+0000",
+      "message": "#เชิญประชุมผู้ปกครองนักเรียน..\nโรงเรียนบ้านไร่ อำเภอดอยเต่า จังหวัดเชียงใหม่\nภาคเรียนที่ ๑ ประจำปีการศึกษา ๒๕๖๗\n โรงเรียนบ้านไร่ ได้กำหนดให้จัดการประชุมผู้ปกครองนักเรียน เพื่อชี้แจงแนวนโยบายการจัดการศึกษาและพัฒนาคุณภาพผู้เรียน \nใน #วันพุธที่_๒๒_พฤษภาคม_๒๕๖๗  \nเวลา ๐๙.๐๐น. ณ อาคารพัฒนากิจกรรมนักเรียน\n รวมทั้งพบปะพูดคุยกับครูประจำชั้น (ใหม่)\n และดำเนินการจัดสรรงบประมาณสนับสนุนค่าเครื่องแบบนักเรียนให้แก่ผู้ปกครอง",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487105527_1104089578400153_5214285704664316623_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=oDGzKPcY6l4Q7kNvwEbAK_o&_nc_oc=AdpUuJ4I-F7nFvUdjpAKaR8d6FSwz2WLjD1iJgUkfDoaiDOdpXO4txrrBYrb5c_s3ws&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLV8SBSbtsn3zJ-la7Va3KviMoALKuCg5ewblSPrjBFolbV6XhpYKsP5rbnQhheHS7xpoSRuCUXZg&oh=00_AQMsBVXN-cbLyec1n-PQ9nNJAuyVTR_0dzu1FJw81KgUUA&oe=6AD2DF99"
+      ],
+      "reactions": 5,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/877148901094223"
+    },
+    {
+      "id": "103144785089449_876452954497151",
+      "created": "2024-05-16T15:16:09+0000",
+      "message": "",
+      "images": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/487150398_1104085671733877_4428266683691080382_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hOzFeCFpi5MQ7kNvwE-mswZ&_nc_oc=AdrNQnAq2_lAKzkCYmj_5TGs6DaQzn9zectCN9cKZq1zbHb6CaJCN1vcoqcQNm4iA5s&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKawMEdu_s8HJVmPMvP3mi-LKRP_Sv1CDrejrhkMoUAbHXVtjP_jlPnsPoOX7drbPftNXHJWhIk_g&oh=00_AQP2EY5HWK57rPYhFoS9Ob1Au2IluqixdXqYmMTiq-CMPA&oe=6AD2FB07",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/487313058_1104085831733861_3653450651724794031_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QLjWbRpTRm4Q7kNvwHqnPIq&_nc_oc=AdqdPxATm1asrBJi80T_S1DdEbxRYlBMY4BdHqF8o3myD0RL3ffkxVZXXYHiwf_FWsw&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJCea2-McjsqfMOSPB7wJ-9AVRvlBS8nNeLAbm2nGSX4s43B0S47oPXeBuoDfD0WfH53tpLSba5_A&oh=00_AQObUqt0aeCFQf0jYhg5CbImEfXkISshPes5viT10JOfDw&oe=6AD2E662"
+      ],
+      "reactions": 6,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/876452954497151"
+    },
+    {
+      "id": "103144785089449_871287115013735",
+      "created": "2024-05-09T02:57:56+0000",
+      "message": "ระวังภัยร้ายจากบุหรี่ไฟฟ้ารูปแบบใหม่",
+      "images": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/615932511_1395932951936909_7214202432090259216_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=wCWaKq5lqqEQ7kNvwGNQ3II&_nc_oc=Adp8isT0Np36rjLOB4MwgbmOpt-wIDlR6vCMAMAMuKBooZVPvkYrjeM3Yqqgigfe_hU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQK6l5vBLkotqVA5eo65UZgERIWxt5BOym7KkJ3ImDavQ4SrvNGZGpc2IkUemy69prcrBw8N6MpAPg&oh=00_AQO_2dG2_Zi-iU9HpOIfdftd1CGO65kuZdy-KpB35sYV6A&oe=6AD3021A"
+      ],
+      "reactions": 3,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/videos/1248545013221372"
+    },
+    {
+      "id": "103144785089449_870697481739365",
+      "created": "2024-05-08T06:03:45+0000",
+      "message": "",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487989766_1104057098403401_3091243101332185364_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UPzk8eQJ-MEQ7kNvwHE0Xef&_nc_oc=AdrpHHtzOhNbL3F7G58slqS8W5cH5JhLQQgbw02Cf0ttAfMT7fRw-WjbkdsEtblqj5Q&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKPCWAVaHGVg5bNa1pNNFdWQQJlEcmp8ymtyCIPUf1GOPntsqE52Sm0yBHbfP4nzYIXVIIGonxUNQ&oh=00_AQNAo14VAc0IolvqT9BhWEJfnXuFVRSYGK-i78gPVW6dhQ&oe=6AD2EA38"
+      ],
+      "reactions": 6,
+      "comments": 1,
+      "url": "https://www.facebook.com/1575829044559535/posts/870697481739365"
+    },
+    {
+      "id": "103144785089449_870697355072711",
+      "created": "2024-05-08T06:03:23+0000",
+      "message": "",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/487790772_1104056825070095_8580595181120861028_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UYwO1_OV4TkQ7kNvwF84b5x&_nc_oc=AdpwO9IW807V6XBoLId0CLhFCr617LYQ9E8DbdToAxd83kqGrYSktqUJWgnLUMHgob4&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJvc9WRc0jr4ARb5xSONimt5j_MYas4qhvYAhJbJQQ1MM5iYlpkd_U-IDlupySveE0piWBeCSZxHg&oh=00_AQOmsGjz0PBu4TNgMaU-vFBzZxSpRCSN7ygPx3-NHw1sEA&oe=6AD2E9D6"
+      ],
+      "reactions": 7,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/870697355072711"
+    },
+    {
+      "id": "103144785089449_864487229027057",
+      "created": "2024-04-29T06:46:04+0000",
+      "message": "โรงเรียนบ้านไร่ ประกาศผลการคัดเลือกลูกจ้างชั่วคราว ตำแหน่ง นักการภารโรง ปีงบประมาณ 2567 ให้ผู้ผ่านการคัดเลือกลำดับที่ 1 รายงานตัวและทำสัญญาจ้าง ในวันที่ 1 พฤษภาคม 2567 เวลา 09.00 น. ณ โรงเรียนบ้านไร่",
+      "images": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/493520265_9423556054408357_904298294351984613_n.jpg?stp=cp1_dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=akLwtjasUWMQ7kNvwHKzy79&_nc_oc=Adr5ruq0NHVD1U36X-AfED2M70dszKrrEWydr2Rdo2aTYtk8noZsqPhzkh6YnLK9N7Y&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLuRiPA2dP6gAonDj-dFn-VfV9qTR2t_jOv1xZutKAcavumDedO7f8si5DSTFzFz2zhGpgotfCqVA&oh=00_AQMM1dr2eNMqeGm2IIenzCrn2nnNdMSVzpsLwZtcuecBgw&oe=6AD2DDC1"
+      ],
+      "reactions": 9,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/864487229027057"
+    },
+    {
+      "id": "103144785089449_861764485965998",
+      "created": "2024-04-25T05:36:22+0000",
+      "message": "ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์ ตำแหน่งนักการภารโรง ปีงบประมาณ 2567 ให้ผู้ที่มีรายชื่อเข้ารับการสอบสัมภาษณ์ ในวันจันทร์ ที่ 29 เมษายน 2567 เวลา 09.00 น. เป็นต้นไป ณ ห้องประชุมวิชาการโรงเรียนบ้านไร่",
+      "images": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/494122476_9422489654514997_2080527479079972334_n.jpg?stp=cp1_dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YLpjcDblym0Q7kNvwHohQwg&_nc_oc=Adr_QynuqRQzsRY7R7zGfE8FK1rpslQuz7FFKQExj8Ys3OIJzznp6f4-Xf0T-0PlS0s&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJr76Bg0YG6JZ91xICj1NnTwLRh7tFlKlxaH8uvN4fQ7rVpL4j2OHBcBluNzFsdqz9h33Xdf12ULw&oh=00_AQMz54YWU5CiLgt_LCkE92howbOZI-8fDL0X8LhRsjlxfA&oe=6AD2D9FA"
+      ],
+      "reactions": 6,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/861764485965998"
+    },
+    {
+      "id": "103144785089449_235148159660106",
+      "created": "2024-04-23T12:12:36+0000",
+      "message": "",
+      "images": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/487065956_1103189178490193_7136466255796044212_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=AtuADUQ7ztUQ7kNvwFhpek3&_nc_oc=AdrWXMgBoL8WSzGi30gjQuvbCaGY8qgLw32LLmIA6tS4o8UBsbZcHCEDa9b-ERkEIyM&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKUnnfz755IzC98MkS6-72TZqjR_JhxK975_4Tt6Xep6vyd8Uq5ih3Szdfk9nPmxLzXIECTZLutFg&oh=00_AQPx_7szM6fZz9GeLcFDLQfBCYqgNM6xRt42YHOBnuJhWA&oe=6AD303A5"
+      ],
+      "reactions": 18,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/235148159660106?substory_index=235148159660106"
+    },
+    {
+      "id": "103144785089449_857992336343213",
+      "created": "2024-04-19T08:21:41+0000",
+      "message": "ประกาศรับสมัครนักการภารโรง ปี งบประมาณ 2567 ตั้งแต่วันที่ 18-24 เมษายน 2567 ณ โรงเรียนบ้านไร่ (ติดต่อสอบถาม 093-1343532)",
+      "images": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/494178261_9421553077941988_5058135371890676735_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4GGREKy8ApwQ7kNvwEQtW_f&_nc_oc=AdoeAir4goyvjuLv9KWYaEKFAqYUvG5PcTzOWcqrRSStxBqwLsM8dqY2lZdqKcj4yXc&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLXabcyo0meU5Qq6pym37Hysqks92vHxlTWPEWJQzPrTOQfS2PDNpG9U9p2h5anA1DojfeEBZu9oA&oh=00_AQOTO1Ko-4pa5WpoySfKkXmttppDMUZMDpVTpbUnkmxgCg&oe=6AD2F595",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/494178251_9421552964608666_4357272900947578811_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=F0vN-YwDLycQ7kNvwHEpwr7&_nc_oc=Adqt5lNVmgwPi75gykaxoG0kFQuPV6rU7ydhZ3K99eahgCgxM-ZIMg0Kz1U-FzbtpkY&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQIuqc6gVZERoyzdGU3qX0eqG6ZolxpdyN2OfEpNKMG6lRuN9XggPMU9yUKk8A-1cZxr4fK_UAv-Dg&oh=00_AQOd-yd9dMx6SIj-ZV9mns36zI1VADgiAh-cG9B4unqJAg&oe=6AD2D3D8",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/494195315_9421553341275295_2786840709740319132_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ffkDGncR0kgQ7kNvwFSJkNN&_nc_oc=AdpEcFLz4bsMbKdxAfw-JlkHqH8CbYc8kv63Bwx00I5yWcOn7GomP4q1bvXEkZuklb0&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQLYAR58I0zn3SyvNYaWd7299pf_35DBHLqMDRIg1Fu6pF8ALInBKvqGMkCrramLfj4sCpXu-PcunQ&oh=00_AQNCakwbUisINoy9H4VlPNe3YQ7vk0tHqKub6CaVUx1OjQ&oe=6AD2E1B8",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/494149306_9421553004608662_3100039869977990409_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Kp36ZlY9BAwQ7kNvwGnbQf7&_nc_oc=AdoY0jCFDCEo9S5AzxwkUBqf_3Si_ROozBb2xpeW5_PyZpeZhTG5fYZAlUP34Q7LCzg&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQJ2C-iU4xhl_6gbv2xa7NrBNmCRQAF1_oaPvcFYkojP6PcMMgts2m7JMo9VHNuEFrY9uOQmEcmcdg&oh=00_AQPeFNjOQOiCVKptfvhIfEDtohxgbBMuY41s8x-O75JU2Q&oe=6AD2E5A8",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/494150447_9421553031275326_1400099636391125411_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uZB4keaimZ0Q7kNvwFP9zXK&_nc_oc=AdqTTyoXHWylJk-0NSr96Kuanujj7fVFkRbcBZlKpK1zrQDRyWOHtrBxWt4eW0t1TNI&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKDEvrUvRq2Jeb3ftU-34PWaRiXH6y1MSMdlGM8bRl0_FO9hSKqGOyB13fD_5PpPYsQ123vnpF_7A&oh=00_AQM_WSxvfTA1bEWx45ntfse2R0HZS68vIOzi8GSSP4TMiA&oe=6AD2E661",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/493949746_9421553204608642_7891077744797692064_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UKLcmnFYRgUQ7kNvwEUjQ8L&_nc_oc=Ado_CeKDw5bLCe57UXsbqfIGlxRh9W4aH4KsIK_pi4rpz7IfcvMKlm3vrnvX8E7Lr58&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=WL-eCPJr9AuOb6OMNTfdAA&_nc_tpa=Q5bMBQKkkqX81VneSCY7kQq0ol9dqmTcv2Q2fpoZUz46HgxhhwGAztSzbhlgO8y56GY3ctn-FJAg7EihnA&oh=00_AQMKQ6aPmRAuGAFNTAp-w4e2PTEAqPYGaquUlr69Z8kruA&oe=6AD2FBE3"
+      ],
+      "reactions": 6,
+      "comments": 0,
+      "url": "https://www.facebook.com/1575829044559535/posts/857992336343213"
+    }
+  ]
 }
