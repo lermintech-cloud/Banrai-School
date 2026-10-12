@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>โรงเรียนบ้านไร่ อ.ดอยเต่า จ.เชียงใหม่</title>
+<meta name="description" content="ข่าวสาร กิจกรรม และภาพจากโรงเรียนบ้านไร่ อำเภอดอยเต่า จังหวัดเชียงใหม่">
+<meta name="theme-color" content="#6EC6F5">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai+Looped:wght@400;500;600&family=Prompt:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="hero" id="hero">
+  <nav class="topbar">
+    <a class="brand" href="./" aria-label="หน้าแรก">
+      <img src="assets/icon.svg" alt="" width="40" height="40">
+      <span><b>โรงเรียนบ้านไร่</b><small>อ.ดอยเต่า จ.เชียงใหม่</small></span>
+    </a>
+    <div class="desk-nav" id="deskNav" role="tablist"></div>
+    <a class="fb-btn" id="fbTop" target="_blank" rel="noopener">เปิดเพจเฟซบุ๊ก</a>
+  </nav>
+  <div class="hero-text">
+    <p class="greet" id="greet">สวัสดี</p>
+    <h1>ข่าวสารและกิจกรรม<br>ของเรา</h1>
+  </div>
+  <svg class="mount" viewBox="0 0 800 160" preserveAspectRatio="none" aria-hidden="true">
+    <circle cx="640" cy="40" r="26" fill="#FFF3B8" opacity=".95"/>
+    <path d="M0 110 L120 50 L220 100 L330 30 L470 112 L580 60 L700 105 L800 70 V160 H0Z" fill="#fff" opacity=".28"/>
+    <path d="M0 130 L90 90 L190 125 L300 80 L420 130 L540 95 L660 128 L800 100 V160 H0Z" fill="#fff" opacity=".5"/>
+    <path d="M0 150 C160 120 300 160 460 140 S700 120 800 145 V160 H0Z" fill="var(--bg)"/>
+  </svg>
+</header>
+
+<main class="wrap">
+  <section class="notice" id="notice" aria-live="polite"></section>
+  <section class="quick" id="quick" aria-label="เมนูลัด"></section>
+
+  <div class="layout">
+    <section class="main">
+      <div class="tools" id="tools">
+        <label class="search"><span id="searchIcon"></span>
+          <input id="q" type="search" placeholder="ค้นหาข่าว กิจกรรม" autocomplete="off" aria-label="ค้นหา"></label>
+        <div class="chips" id="chips" role="tablist" aria-label="หมวดข่าว"></div>
+      </div>
+      <div id="view" class="view"></div>
+    </section>
+    <aside class="side" id="side"></aside>
+  </div>
+  <footer class="foot">ข้อมูลอัปเดตอัตโนมัติจากเพจเฟซบุ๊กของโรงเรียน<br><span id="updated"></span></footer>
+</main>
+
+<nav class="tabbar" id="tabbar" aria-label="เมนูหลัก"></nav>
+<div class="ptr" id="ptr" aria-hidden="true">ปล่อยเพื่อรีเฟรช</div>
+<dialog id="sheet" aria-label="รายละเอียดโพสต์"></dialog>
+<script src="assets/app.js" defer></script>
+</body>
+</html>
